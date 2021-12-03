@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntonioEspin
+- 👋 Hi, I’m @AntonioEspin. I am a frontend developer with knowledge in HTML CSS Javascript. And for bigger projects I use React.js
 - 👀 I’m interested in being part of this technological change that the world is experiencing. Contribute with my knowledge and skills so that other people are much more interested in technology
 - 🌱 I’m currently learning the latest features that a web developer requires. I know how important it is to update the concepts in this profession
 - 💞️ I’m looking to collaborate in projects that contribute to the world and to people, an easy adaptation in this technological revolution.
